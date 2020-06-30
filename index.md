@@ -38,7 +38,7 @@ body {
 <h1 id = "myHeader" >Akash Agrawal</h1>
 <hr size="5px" style="color: ; background-color:brown">
 <h1 class = "subHeading"> Let me introduce myself: </h1>
-<img src="akash.jpg" width = 400px height = 400px align = "right" border = 10px>
+<img src="akash.jpg" style="width:400px;height:400px;" align="right" ;border = 10px>
 <p class = "para"> 
 <big><big><b>Hi , I am <b><i> Akash Agrawal</i></b> , I am a student at <a href = "http://www.iitb.ac.in" title ="Click on it to visit the website."> IIT Bombay </a> pursuing bachelors degree in Aerospace Engineering.
 Being a stundent in one of the top most institute of India was my biggest dream.More than a dream, it was my passion
