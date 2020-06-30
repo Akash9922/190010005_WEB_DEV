@@ -32,7 +32,7 @@ body {
   font-family : Comic Sans MS;
   <!--Setting style for list items!-->
   }
-  p.img{
+  img{
   align: right;
   padding-left:0px;}
 </style>
