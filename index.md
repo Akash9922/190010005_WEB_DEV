@@ -32,8 +32,9 @@ body {
   font-family : Comic Sans MS;
   <!--Setting style for list items!-->
   }
-  img{
-  align: right;
+  img
+  {
+  align-image: right;
   padding-left:0px;}
 </style>
 </head>
