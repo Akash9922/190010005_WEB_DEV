@@ -48,7 +48,7 @@ I want to beacome a successful person and live my life happily and to the fulles
 </big></big>
 </p>
 <h1 class = "subHeading" > Things I like to do: </h1>
-<ul class = " font" style = "font-size: 130%"; >
+<ul class = " font" >
 <li> <b>Cycling </b></li>
 <li><b> Playing cricket, badminton, electronic games</b> </li>
 <li> <b>Traveling </b></li>
